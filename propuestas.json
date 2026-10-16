@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "aprobada",
+    "title": "Versión aprobada",
+    "desc": "La propuesta más reciente, elegida como base para el sitio final."
+  },
+  {
+    "slug": "blanca",
+    "title": "Portada blanca",
+    "desc": "Encabezado blanco y portada fotográfica."
+  },
+  {
+    "slug": "colores",
+    "title": "Colores oficiales",
+    "desc": "Exploración de la paleta institucional."
+  },
+  {
+    "slug": "profesional",
+    "title": "Portada profesional",
+    "desc": "Portada fotográfica y buscador protagonista."
+  },
+  {
+    "slug": "tres",
+    "title": "Tres diseños diferentes",
+    "desc": "Tres composiciones A, B y C dentro de una misma propuesta."
+  },
+  {
+    "slug": "opciones",
+    "title": "Opciones interactivas",
+    "desc": "Comparación de estilos y navegación de ejemplo."
+  },
+  {
+    "slug": "original",
+    "title": "Prototipo inicial",
+    "desc": "Primera propuesta del directorio."
+  }
+]
